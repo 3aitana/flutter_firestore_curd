@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637104460979",
+    "firebase_url": "https://firestorecrud-17c7a.firebaseio.com",
+    "project_id": "firestorecrud-17c7a",
+    "storage_bucket": "firestorecrud-17c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637104460979:android:744e57b4ff82c8f35dccc6",
+        "android_client_info": {
+          "package_name": "com.sheikh.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637104460979-g6m5bmfj0lihr02dc098mcrg4rbpsglb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3pTExmlLkhOoyTR7Rv84GyPQaiH13OmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637104460979-g6m5bmfj0lihr02dc098mcrg4rbpsglb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
